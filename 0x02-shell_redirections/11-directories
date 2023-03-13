@@ -1,2 +1,2 @@
 #!/bin/bash
-find -fun_with_the_shell 1 -type d | wc -l
+find -fun_with_the_shell 1 -type f | wc -l
