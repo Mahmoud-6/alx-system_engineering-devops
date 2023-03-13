@@ -1,2 +1,2 @@
 #!/bin/bash
-egrep -E '^a' /etc/ssh/sshd_config
+egrep -E "^a" /etc/ssh/sshd_config
