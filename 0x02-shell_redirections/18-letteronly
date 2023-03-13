@@ -1,2 +1,2 @@
 #!/bin/bash
-awk '/a/' /etc/ssh/sshd_config
+awk '/a' /etc/ssh/sshd_config
